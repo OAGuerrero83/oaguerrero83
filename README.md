@@ -41,23 +41,23 @@ Every project on this GitHub represents a real problem I've encountered—and my
 * OSHA 10
 * OSHA 30
 
-## 🚧 Projects In Development
+## 🧰 Current Projects
 
-### Equipment Maintenance Tracker
+🔧 Equipment Maintenance Bible
 
-A system for recording preventive maintenance, inspections, repairs, equipment conditions, replacement parts, and service history.
+Preventive maintenance documentation, PM procedures, troubleshooting guides, and equipment management.
 
-### Cybersecurity Labs
+🏋️ UFC Gym Maintenance Tools
 
-A collection of hands-on exercises involving Linux, network traffic analysis, SQL, incident response, security controls, and troubleshooting.
+Inspection forms, PM tracking, work orders, inventory, and reporting.
 
-### Python Utility Tools
+🎤 Auditorium Audio Design
 
-Small Python programs designed to automate repetitive IT, maintenance, and business tasks.
+Audio system planning, cable routing, equipment selection, and documentation.
 
-### Auditorium Audio System Planner
+💻 Python Utility Collection
 
-Documentation and planning tools for evaluating audio equipment, cable paths, mixers, speakers, microphones, and portable PA systems.
+Small utilities that automate everyday IT and maintenance tasks.
 
 ## 🚀 Current Mission
 

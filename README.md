@@ -81,11 +81,15 @@ Current focus:
 - Contribute to open-source software
 - Continue developing cybersecurity skills
   
-## 🤝 Connect With Me
+ ## 🤝 Let's Build
 
-* **Portfolio:** [oaguerrero.com](https://www.oaguerrero.com)
-* **GitHub:** [OAGuerrero83](https://github.com/OAGuerrero83)
-* **Location:** Las Vegas, Nevada
+🌐 Website: [oaguerrero.com](https://www.oaguerrero.com)
+
+💼 GitHub: [OAGuerrero83](https://github.com/OAGuerrero83)
+
+📍 Las Vegas, Nevada
+
+Always open to collaborating on IT, cybersecurity, automation, and maintenance technology projects.
 
 ---
 

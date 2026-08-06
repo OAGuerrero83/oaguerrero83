@@ -72,7 +72,7 @@ Current focus:
 - Automation
 - Git & GitHub
 
-  ## 📈 2026 Goals
+## 📈 2026 Goals
 
 - Build 10 complete projects
 - Learn PowerShell

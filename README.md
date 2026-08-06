@@ -1,4 +1,4 @@
-# Hi, I'm Oscar Guerrero 👋
+# Hi, I'm Oscar Guerrero
 
 ## Army Veteran | IT Support | Cybersecurity | Technical Operations
 

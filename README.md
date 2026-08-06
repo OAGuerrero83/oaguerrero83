@@ -57,10 +57,19 @@ Small Python programs designed to automate repetitive IT, maintenance, and busin
 
 Documentation and planning tools for evaluating audio equipment, cable paths, mixers, speakers, microphones, and portable PA systems.
 
-## 🎯 Current Goal
+## 🚀 Current Mission
 
-My goal is to earn an opportunity in IT support, cybersecurity, network operations, or technical operations where I can apply my troubleshooting ability, leadership experience, and commitment to continuous learning.
+Transitioning into Information Technology by combining years of hands-on troubleshooting experience with modern IT and cybersecurity skills.
 
+Current focus:
+
+- Python
+- Linux
+- Networking
+- Cybersecurity
+- Automation
+- Git & GitHub
+- 
 ## 🤝 Connect With Me
 
 * **Portfolio:** [oaguerrero.com](https://www.oaguerrero.com)

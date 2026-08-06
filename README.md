@@ -71,6 +71,15 @@ Current focus:
 - Cybersecurity
 - Automation
 - Git & GitHub
+
+  ## 📈 2026 Goals
+
+- Build 10 complete projects
+- Learn PowerShell
+- Improve Python skills
+- Earn CompTIA A+
+- Contribute to open-source software
+- Continue developing cybersecurity skills
   
 ## 🤝 Connect With Me
 

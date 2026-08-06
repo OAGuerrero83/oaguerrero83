@@ -1,10 +1,12 @@
 # Hi, I'm Oscar Guerrero
 
-## Army Veteran | IT Support | Cybersecurity | Technical Operations
+## 🛠 Army Veteran | IT Support | Cybersecurity | Problem Solver
 
-I'm an Army combat veteran and experienced maintenance professional transitioning into information technology and cybersecurity.
+I believe technology should solve real-world problems.
 
-My background includes troubleshooting mechanical and electrical systems, preventive maintenance, construction, team leadership, customer service, and small-business operations. I am now combining that real-world experience with IT support, cybersecurity, networking, Linux, and Python.
+After spending years troubleshooting mechanical, electrical, and operational systems, I'm now applying that same mindset to IT, cybersecurity, automation, and software development.
+
+Every project on this GitHub represents a real problem I've encountered—and my attempt to build a better solution.
 
 ## 🔧 What I'm Working On
 
@@ -69,7 +71,7 @@ Current focus:
 - Cybersecurity
 - Automation
 - Git & GitHub
-- 
+  
 ## 🤝 Connect With Me
 
 * **Portfolio:** [oaguerrero.com](https://www.oaguerrero.com)
